@@ -3,6 +3,10 @@ header {
     background: url('https://livesomeday.files.wordpress.com/2013/03/mountain-photography-alexandrew-buisse1.jpg');
     background-size: cover;
     color: white;
+    font-family: helvetica;
+ }
+ article {
+    font-family: helvetica;
  }
  a {
     color: white;
